@@ -1,15 +1,4 @@
-## **## Criando um README.md Conciso e Informativo**
-
-**Compreendendo a Aplicação**
-
-Antes de escrever o README, vamos resumir o que a aplicação faz:
-
-* **Pesquisável:** Permite aos usuários pesquisar por atletas ou esportes.
-* **Dinâmica:** Exibe resultados de pesquisa em tempo real, baseados em dados de um arquivo JavaScript externo (dados.js).
-* **Simples:** A interface é intuitiva, com um campo de pesquisa e uma seção para exibir os resultados.
-* **Tecnologias:** HTML, CSS, JavaScript e um arquivo JSON (dados.js) para armazenar os dados.
-
-**Estrutura do README.md**
+imersão ALURA
 
 ```markdown
 # Aplicação de Pesquisa de Atletas
